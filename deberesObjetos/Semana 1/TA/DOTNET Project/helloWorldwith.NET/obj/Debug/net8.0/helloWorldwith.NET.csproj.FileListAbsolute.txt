@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.exe
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.deps.json
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.runtimeconfig.json
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.dll
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.pdb
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.AssemblyInfo.cs
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.dll
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\refint\helloWorldwith.NET.dll
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.pdb
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.genruntimeconfig.cache
+C:\Users\Alexander\Documents\deberesObjetos\Semana 1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\ref\helloWorldwith.NET.dll

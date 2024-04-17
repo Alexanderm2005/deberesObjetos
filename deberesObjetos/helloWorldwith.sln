@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Semana 1", "Semana 1", "{4BFB53A6-081F-4D1F-95CF-F96CA85A4FA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TA", "TA", "{32FEF985-5618-451C-BFF9-063082539597}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOTNET Project", "DOTNET Project", "{2C7F17DE-4FC1-4399-BB25-378ACC02FB21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloWorldwith.NET", "Semana 1\TA\DOTNET Project\helloWorldwith.NET\helloWorldwith.NET.csproj", "{BCC0F1C4-5E4A-4548-9927-8E1D046B7E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC0F1C4-5E4A-4548-9927-8E1D046B7E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC0F1C4-5E4A-4548-9927-8E1D046B7E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC0F1C4-5E4A-4548-9927-8E1D046B7E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC0F1C4-5E4A-4548-9927-8E1D046B7E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32FEF985-5618-451C-BFF9-063082539597} = {4BFB53A6-081F-4D1F-95CF-F96CA85A4FA1}
+		{2C7F17DE-4FC1-4399-BB25-378ACC02FB21} = {32FEF985-5618-451C-BFF9-063082539597}
+		{BCC0F1C4-5E4A-4548-9927-8E1D046B7E5C} = {2C7F17DE-4FC1-4399-BB25-378ACC02FB21}
+	EndGlobalSection
+EndGlobal
