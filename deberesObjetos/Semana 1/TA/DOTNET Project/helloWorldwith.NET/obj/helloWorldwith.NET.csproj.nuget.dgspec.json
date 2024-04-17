@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander\\Documents\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj": {}
+    "C:\\Users\\Alexander\\Documents\\GitHub\\deberesObjetos\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexander\\Documents\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj": {
+    "C:\\Users\\Alexander\\Documents\\GitHub\\deberesObjetos\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander\\Documents\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
+        "projectUniqueName": "C:\\Users\\Alexander\\Documents\\GitHub\\deberesObjetos\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
         "projectName": "helloWorldwith.NET",
-        "projectPath": "C:\\Users\\Alexander\\Documents\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
+        "projectPath": "C:\\Users\\Alexander\\Documents\\GitHub\\deberesObjetos\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
         "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander\\Documents\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\obj\\",
+        "outputPath": "C:\\Users\\Alexander\\Documents\\GitHub\\deberesObjetos\\deberesObjetos\\Semana 1\\TA\\DOTNET Project\\helloWorldwith.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config"
